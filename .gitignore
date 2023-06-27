@@ -13,3 +13,5 @@ esbcpo/runs*
 esbcpo/bash-run
 esbcpo.egg-info/
 *.sh
+
+venv/
